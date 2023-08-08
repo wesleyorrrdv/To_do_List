@@ -1,4 +1,4 @@
-package com.curvelo.todolist.model
+package com.curvelo.todolist.data
 
 interface TaskRepository {
     fun getAllTasks(): List<Task>
