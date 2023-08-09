@@ -13,6 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.curvelo.todolist.ui.theme.TodoListTheme
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
